@@ -1,5 +1,10 @@
 # DNN-Face-deection
 Deep neural network based face detection project using Opencv C++
+
+USE THIS LINK TO DOWNLOAD THE PRETRAINED MODELS;
+[https://github.com/opencv/opencv_zoo/tree/master/models/face_detection_yunet]
+[https://github.com/opencv/opencv_zoo/tree/master/models/face_recognition_sface]
+
 ![result_00476](https://user-images.githubusercontent.com/77052195/234833362-85d14b1a-2e64-4a62-8002-c1baa7298453.jpg)
 
 it detects faces at real time and also capable of detecting multiple faces an landmarks sort of thing
